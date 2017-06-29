@@ -1,0 +1,4 @@
+at the top of main you can change the search method with a variable called 'searchmethod'
+
+other then that just
+pick your searchmethod and run it
